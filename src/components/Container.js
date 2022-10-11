@@ -15,6 +15,7 @@ const Container = ({ searchTerm }) => {
       {loading ? <Loader /> : <Gallery data={images} />}
     </div>
   );
+
 };
 
 export default Container;
