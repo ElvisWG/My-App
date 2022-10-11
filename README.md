@@ -26,6 +26,10 @@ This project has been styled using Css
 ## Challenges Faced
 One of the major challenge faced was styling and designing the front page to look presentable and routing
 
+## Project Link
+https://grand-pasca-e9e2ee.netlify.app/
+
+
 ## Motivation
 The idea for this project was to familiarize myself more with React and was also driven by my outgoing nature and lover for nature
 
@@ -45,5 +49,3 @@ Email - [Elvis Gatukui] (brianelvis6@gmail.com)
 
 
 
-
-# My-App
