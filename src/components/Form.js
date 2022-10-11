@@ -20,7 +20,7 @@ const Form = ({ handleSubmit, history }) => {
       <button type="submit" className="search-button">
         <svg height="32" width="32">
        <path>
-        fill="#ffffff"
+            fill="#ffffff"
             fillRule="evenodd"
        </path>
         </svg>
@@ -28,7 +28,5 @@ const Form = ({ handleSubmit, history }) => {
     </form>
   );
 };
-
-
 export default Form;
 
