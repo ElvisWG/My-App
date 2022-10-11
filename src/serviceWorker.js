@@ -54,7 +54,7 @@ const isLocalhost = Boolean(
                   config.onUpdate(registration);
                 }
               } else {
-                onsole.log('Content is cached for offline use.');
+                console.log('Content is cached for offline use.');
   
                 if (config && config.onSuccess) {
                   config.onSuccess(registration);
