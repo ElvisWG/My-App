@@ -19,7 +19,10 @@ const Form = ({ handleSubmit, history }) => {
       />
       <button type="submit" className="search-button">
         <svg height="32" width="32">
-       
+       <path>
+        fill="#ffffff"
+            fillRule="evenodd"
+       </path>
         </svg>
       </button>
     </form>
